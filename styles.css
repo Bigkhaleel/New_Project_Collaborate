@@ -16,3 +16,9 @@ h1, p{
     font-family: 'Times New Roman', Times, serif;
     align-items: center;  
 }
+nav ul li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    position: relative;
+}
